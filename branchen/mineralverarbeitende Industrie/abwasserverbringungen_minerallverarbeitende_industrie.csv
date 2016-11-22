@@ -1,0 +1,131 @@
+betriebe_id,jahr,jahresfracht,stoff_name,stoff_gruppe,stoff_schwellenwert,bestimmungsmethode,bestimmungsverfahren,name,kennnummer,wgs84_x,wgs84_y,anschrift,bundesland,flusseinzugsgebiet,muttergesellschaft,eigentuemer,betreiber,nace_code,nace_text,prtr_beschreibung,ivu_beschreibung,branchengruppe
+175052,2012,65,Kupfer und Verbindungen (als Cu),Schwermetalle,50.0,Messung,NRB (M),Noelle + von Campe Glashütte GmbH,03-07-07236770280,9.39808281575063,51.7508625810582,"Sollingstr. 14
+37691 Boffzen",Niedersachsen,Weser,Noelle + von Campe Glashütte GmbH,Noelle + von Campe Glashütte GmbH,Noelle + von Campe Glashütte GmbH,2313,Herstellung von Hohlglas,Herstellung von Glas und Glasfasern >20 t/d,Herstellung von Glas und Glasfasern,Mineralverarbeitende Industrie
+78377,2010,86,Kupfer und Verbindungen (als Cu),Schwermetalle,50.0,Messung,ALT,Werk Neuhof-Ellers,06-90030210631,9.59918051730954,50.459291518217,"Am Kaliwerk 6
+36119 Neuhof",Hessen,Weser,K+S KALI GmbH,K+S KALI GmbH,K+S KALI GmbH,893,Gewinnung von Salz,Untertage-Bergbau und damit verbundene Tätigkeiten,Keine IVU-Tätigkeit,Mineralverarbeitende Industrie
+182342,2014,52,Kupfer und Verbindungen (als Cu),Schwermetalle,50.0,Messung,ALT,Werk Neuhof-Ellers,06-90030210631,9.59915421214534,50.4593153461903,"Am Kaliwerk 6
+36119 Neuhof",Hessen,Weser,K+S AG,K+S KALI GmbH,K+S KALI GmbH,891,Bergbau auf chemische und Düngemittelminerale,Untertage-Bergbau und damit verbundene Tätigkeiten,,Mineralverarbeitende Industrie
+178258,2013,51,Kupfer und Verbindungen (als Cu),Schwermetalle,50.0,Messung,ALT,Werk Neuhof-Ellers,06-90030210631,9.59915421214534,50.4593153461903,"Am Kaliwerk 6
+36119 Neuhof",Hessen,Weser,K+S KALI GmbH,K+S KALI GmbH,K+S KALI GmbH,891,Bergbau auf chemische und Düngemittelminerale,Untertage-Bergbau und damit verbundene Tätigkeiten,,Mineralverarbeitende Industrie
+54748,2009,151,Kupfer und Verbindungen (als Cu),Schwermetalle,50.0,Messung,ALT,Werk Neuhof-Ellers,06-90030210631,9.59918051730954,50.459291518217,"Am Kaliwerk 6
+36119 Neuhof",Hessen,Weser,K+S AG,K+S KALI GmbH,K+S KALI GmbH,893,Gewinnung von Salz,Untertage-Bergbau und damit verbundene Tätigkeiten,Keine IVU-Tätigkeit,Mineralverarbeitende Industrie
+50751,2008,156,Kupfer und Verbindungen (als Cu),Schwermetalle,50.0,Messung,ALT,Werk Neuhof-Ellers,06-90030210631,9.59918051730954,50.459291518217,"Am Kaliwerk 6
+36119 Neuhof",Hessen,Weser,K+S KALI GmbH,,,893,Gewinnung von Salz,Untertage-Bergbau und damit verbundene Tätigkeiten,Keine IVU-Tätigkeit,Mineralverarbeitende Industrie
+175387,2012,1.1,Quecksilber und Verbindungen (als Hg),Schwermetalle,1.0,Messung,INT (M) CEN/ISO,Gerresheimer Essen GmbH,06-05-100-0109379,7.0882147613856,51.4386053043407,"Ruhrau 50
+45279 Essen",Nordrhein-Westfalen,Rhein,Gerresheimer Essen GmbH,Gerresheimer Essen GmbH,Gerresheimer Essen GmbH,2313,Herstellung von Hohlglas,Herstellung von Glas und Glasfasern >20 t/d,Herstellung von Glas und Glasfasern,Mineralverarbeitende Industrie
+179424,2013,1.1,Quecksilber und Verbindungen (als Hg),Schwermetalle,1.0,Messung,INT (M) CEN/ISO,Gerresheimer Essen GmbH,06-05-100-0109379,7.0882147613856,51.4386053043407,"Ruhrau 50
+45279 Essen",Nordrhein-Westfalen,Rhein,Gerresheimer Essen GmbH,Gerresheimer Essen GmbH,Gerresheimer Essen GmbH,2313,Herstellung von Hohlglas,Herstellung von Glas und Glasfasern >20 t/d,,Mineralverarbeitende Industrie
+183261,2014,1.1,Quecksilber und Verbindungen (als Hg),Schwermetalle,1.0,Messung,INT (M) CEN/ISO,Gerresheimer Essen GmbH,06-05-100-0109379,7.0882147613856,51.4386053043407,"Ruhrau 50
+45279 Essen",Nordrhein-Westfalen,Rhein,Gerresheimer Essen GmbH,Gerresheimer Essen GmbH,Gerresheimer Essen GmbH,2313,Herstellung von Hohlglas,Herstellung von Glas und Glasfasern >20 t/d,,Mineralverarbeitende Industrie
+172923,2011,1.1,Quecksilber und Verbindungen (als Hg),Schwermetalle,1.0,Messung,INT (M) CEN/ISO,Gerresheimer Essen GmbH,06-05-100-0109379,7.0882147613856,51.4386053043407,"Ruhrau 50
+45279 Essen",Nordrhein-Westfalen,Rhein,Gerresheimer Essen GmbH,Gerresheimer Essen GmbH,Gerresheimer Essen GmbH,2313,Herstellung von Hohlglas,Herstellung von Glas und Glasfasern >20 t/d,Herstellung von Glas und Glasfasern,Mineralverarbeitende Industrie
+167752,2009,1.1,Quecksilber und Verbindungen (als Hg),Schwermetalle,1.0,Messung,INT (M) CEN/ISO,Gerresheimer Essen GmbH,06-05-100-0109379,7.0882147613856,51.4386053043407,"Ruhrau 50
+45279 Essen",Nordrhein-Westfalen,Rhein,Gerresheimer Essen GmbH,Gerresheimer Essen GmbH,Gerresheimer Essen GmbH,2313,Herstellung von Hohlglas,Herstellung von Glas und Glasfasern >20 t/d,Herstellung von Glas und Glasfasern,Mineralverarbeitende Industrie
+165030,2008,1.1,Quecksilber und Verbindungen (als Hg),Schwermetalle,1.0,Messung,OTH (M),Gerresheimer Essen GmbH,06-05-100-0109379,7.0882147613856,51.4386053043407,"Ruhrau 50
+45279 Essen",Nordrhein-Westfalen,Rhein,Gerresheimer Essen GmbH,,,2313,Herstellung von Hohlglas,Herstellung von Glas und Glasfasern >20 t/d,Herstellung von Glas und Glasfasern,Mineralverarbeitende Industrie
+169658,2010,1.1,Quecksilber und Verbindungen (als Hg),Schwermetalle,1.0,Messung,INT (M) CEN/ISO,Gerresheimer Essen GmbH,06-05-100-0109379,7.0882147613856,51.4386053043407,"Ruhrau 50
+45279 Essen",Nordrhein-Westfalen,Rhein,Gerresheimer Essen GmbH,Gerresheimer Essen GmbH,Gerresheimer Essen GmbH,2313,Herstellung von Hohlglas,Herstellung von Glas und Glasfasern >20 t/d,Herstellung von Glas und Glasfasern,Mineralverarbeitende Industrie
+84982,2011,71,Nickel und Verbindungen (als Ni),Schwermetalle,20.0,Messung,ALT,Werk Neuhof-Ellers,06-90030210631,9.59918051730954,50.459291518217,"Am Kaliwerk 6
+36119 Neuhof",Hessen,Weser,K+S KALI GmbH,K+S KALI GmbH,K+S KALI GmbH,891,Bergbau auf chemische und Düngemittelminerale,Untertage-Bergbau und damit verbundene Tätigkeiten,,Mineralverarbeitende Industrie
+78377,2010,86,Nickel und Verbindungen (als Ni),Schwermetalle,20.0,Messung,ALT,Werk Neuhof-Ellers,06-90030210631,9.59918051730954,50.459291518217,"Am Kaliwerk 6
+36119 Neuhof",Hessen,Weser,K+S KALI GmbH,K+S KALI GmbH,K+S KALI GmbH,893,Gewinnung von Salz,Untertage-Bergbau und damit verbundene Tätigkeiten,Keine IVU-Tätigkeit,Mineralverarbeitende Industrie
+163509,2008,24.8,Nickel und Verbindungen (als Ni),Schwermetalle,20.0,Messung,OTH (M),"Robert Bosch GmbH, Bamberg Plant",06-09-461-0006-0001,10.9192657535236,49.8915406989766,"Robert-Bosch-Straße 40
+96050 Bamberg",Bayern,Rhein,Robert Bosch GmbH,Robert Bosch GmbH,Robert Bosch GmbH,2932,Herstellung von sonstigen Teilen und sonstigem Zubehör für Kraftwagen,Herstellung keramischer Erzeugnisse >75 t/d oder Ofenkapazität >4 m³ und Besatzdichte >300 kg/m³,Herstellung keramischer Erzeugnisse,Mineralverarbeitende Industrie
+182342,2014,67,Nickel und Verbindungen (als Ni),Schwermetalle,20.0,Messung,ALT,Werk Neuhof-Ellers,06-90030210631,9.59915421214534,50.4593153461903,"Am Kaliwerk 6
+36119 Neuhof",Hessen,Weser,K+S AG,K+S KALI GmbH,K+S KALI GmbH,891,Bergbau auf chemische und Düngemittelminerale,Untertage-Bergbau und damit verbundene Tätigkeiten,,Mineralverarbeitende Industrie
+178258,2013,81,Nickel und Verbindungen (als Ni),Schwermetalle,20.0,Messung,ALT,Werk Neuhof-Ellers,06-90030210631,9.59915421214534,50.4593153461903,"Am Kaliwerk 6
+36119 Neuhof",Hessen,Weser,K+S KALI GmbH,K+S KALI GmbH,K+S KALI GmbH,891,Bergbau auf chemische und Düngemittelminerale,Untertage-Bergbau und damit verbundene Tätigkeiten,,Mineralverarbeitende Industrie
+157962,2012,74,Nickel und Verbindungen (als Ni),Schwermetalle,20.0,Messung,ALT,Werk Neuhof-Ellers,06-90030210631,9.59915421214534,50.4593153461903,"Am Kaliwerk 6
+36119 Neuhof",Hessen,Weser,K+S KALI GmbH,K+S KALI GmbH,K+S KALI GmbH,891,Bergbau auf chemische und Düngemittelminerale,Untertage-Bergbau und damit verbundene Tätigkeiten,,Mineralverarbeitende Industrie
+54748,2009,86.5,Nickel und Verbindungen (als Ni),Schwermetalle,20.0,Messung,ALT,Werk Neuhof-Ellers,06-90030210631,9.59918051730954,50.459291518217,"Am Kaliwerk 6
+36119 Neuhof",Hessen,Weser,K+S AG,K+S KALI GmbH,K+S KALI GmbH,893,Gewinnung von Salz,Untertage-Bergbau und damit verbundene Tätigkeiten,Keine IVU-Tätigkeit,Mineralverarbeitende Industrie
+50751,2008,75,Nickel und Verbindungen (als Ni),Schwermetalle,20.0,Messung,ALT,Werk Neuhof-Ellers,06-90030210631,9.59918051730954,50.459291518217,"Am Kaliwerk 6
+36119 Neuhof",Hessen,Weser,K+S KALI GmbH,,,893,Gewinnung von Salz,Untertage-Bergbau und damit verbundene Tätigkeiten,Keine IVU-Tätigkeit,Mineralverarbeitende Industrie
+78377,2010,54,Blei und Verbindungen (als Pb),Schwermetalle,20.0,Messung,ALT,Werk Neuhof-Ellers,06-90030210631,9.59918051730954,50.459291518217,"Am Kaliwerk 6
+36119 Neuhof",Hessen,Weser,K+S KALI GmbH,K+S KALI GmbH,K+S KALI GmbH,893,Gewinnung von Salz,Untertage-Bergbau und damit verbundene Tätigkeiten,Keine IVU-Tätigkeit,Mineralverarbeitende Industrie
+182342,2014,46,Blei und Verbindungen (als Pb),Schwermetalle,20.0,Messung,ALT,Werk Neuhof-Ellers,06-90030210631,9.59915421214534,50.4593153461903,"Am Kaliwerk 6
+36119 Neuhof",Hessen,Weser,K+S AG,K+S KALI GmbH,K+S KALI GmbH,891,Bergbau auf chemische und Düngemittelminerale,Untertage-Bergbau und damit verbundene Tätigkeiten,,Mineralverarbeitende Industrie
+157962,2012,48,Blei und Verbindungen (als Pb),Schwermetalle,20.0,Messung,ALT,Werk Neuhof-Ellers,06-90030210631,9.59915421214534,50.4593153461903,"Am Kaliwerk 6
+36119 Neuhof",Hessen,Weser,K+S KALI GmbH,K+S KALI GmbH,K+S KALI GmbH,891,Bergbau auf chemische und Düngemittelminerale,Untertage-Bergbau und damit verbundene Tätigkeiten,,Mineralverarbeitende Industrie
+54748,2009,53.4,Blei und Verbindungen (als Pb),Schwermetalle,20.0,Messung,ALT,Werk Neuhof-Ellers,06-90030210631,9.59918051730954,50.459291518217,"Am Kaliwerk 6
+36119 Neuhof",Hessen,Weser,K+S AG,K+S KALI GmbH,K+S KALI GmbH,893,Gewinnung von Salz,Untertage-Bergbau und damit verbundene Tätigkeiten,Keine IVU-Tätigkeit,Mineralverarbeitende Industrie
+84982,2011,45,Blei und Verbindungen (als Pb),Schwermetalle,20.0,Messung,ALT,Werk Neuhof-Ellers,06-90030210631,9.59918051730954,50.459291518217,"Am Kaliwerk 6
+36119 Neuhof",Hessen,Weser,K+S KALI GmbH,K+S KALI GmbH,K+S KALI GmbH,891,Bergbau auf chemische und Düngemittelminerale,Untertage-Bergbau und damit verbundene Tätigkeiten,,Mineralverarbeitende Industrie
+178258,2013,52,Blei und Verbindungen (als Pb),Schwermetalle,20.0,Messung,ALT,Werk Neuhof-Ellers,06-90030210631,9.59915421214534,50.4593153461903,"Am Kaliwerk 6
+36119 Neuhof",Hessen,Weser,K+S KALI GmbH,K+S KALI GmbH,K+S KALI GmbH,891,Bergbau auf chemische und Düngemittelminerale,Untertage-Bergbau und damit verbundene Tätigkeiten,,Mineralverarbeitende Industrie
+50751,2008,57,Blei und Verbindungen (als Pb),Schwermetalle,20.0,Messung,ALT,Werk Neuhof-Ellers,06-90030210631,9.59918051730954,50.459291518217,"Am Kaliwerk 6
+36119 Neuhof",Hessen,Weser,K+S KALI GmbH,,,893,Gewinnung von Salz,Untertage-Bergbau und damit verbundene Tätigkeiten,Keine IVU-Tätigkeit,Mineralverarbeitende Industrie
+84982,2011,761,Zink und Verbindungen (als Zn),Schwermetalle,100.0,Messung,ALT,Werk Neuhof-Ellers,06-90030210631,9.59918051730954,50.459291518217,"Am Kaliwerk 6
+36119 Neuhof",Hessen,Weser,K+S KALI GmbH,K+S KALI GmbH,K+S KALI GmbH,891,Bergbau auf chemische und Düngemittelminerale,Untertage-Bergbau und damit verbundene Tätigkeiten,,Mineralverarbeitende Industrie
+78377,2010,899,Zink und Verbindungen (als Zn),Schwermetalle,100.0,Messung,ALT,Werk Neuhof-Ellers,06-90030210631,9.59918051730954,50.459291518217,"Am Kaliwerk 6
+36119 Neuhof",Hessen,Weser,K+S KALI GmbH,K+S KALI GmbH,K+S KALI GmbH,893,Gewinnung von Salz,Untertage-Bergbau und damit verbundene Tätigkeiten,Keine IVU-Tätigkeit,Mineralverarbeitende Industrie
+85870,2007,212,Zink und Verbindungen (als Zn),Schwermetalle,100.0,Messung,ALT,Werk Neuhof-Ellers,06-90030210631,9.59918051730954,50.459291518217,"Am Kaliwerk 6
+36119 Neuhof",Hessen,Weser,K+S KALI GmbH,,,893,Gewinnung von Salz,Untertage-Bergbau und damit verbundene Tätigkeiten,Keine IVU-Tätigkeit,Mineralverarbeitende Industrie
+171201,2011,115,Zink und Verbindungen (als Zn),Schwermetalle,100.0,Messung,PER (M),Saint-Gobain Oberland AG,06-09-185-0409-0001,11.2401456231066,48.7377478621121,"Ruhrstr. 2
+86633 Neuburg a.d.Donau",Bayern,Donau,Saint-Gobain Oberland AG,Saint-Gobain Oberland AG,Saint-Gobain Oberland AG,2313,Herstellung von Hohlglas,Herstellung von Glas und Glasfasern >20 t/d,Herstellung von Glas und Glasfasern,Mineralverarbeitende Industrie
+182342,2014,767,Zink und Verbindungen (als Zn),Schwermetalle,100.0,Messung,ALT,Werk Neuhof-Ellers,06-90030210631,9.59915421214534,50.4593153461903,"Am Kaliwerk 6
+36119 Neuhof",Hessen,Weser,K+S AG,K+S KALI GmbH,K+S KALI GmbH,891,Bergbau auf chemische und Düngemittelminerale,Untertage-Bergbau und damit verbundene Tätigkeiten,,Mineralverarbeitende Industrie
+157962,2012,794,Zink und Verbindungen (als Zn),Schwermetalle,100.0,Messung,ALT,Werk Neuhof-Ellers,06-90030210631,9.59915421214534,50.4593153461903,"Am Kaliwerk 6
+36119 Neuhof",Hessen,Weser,K+S KALI GmbH,K+S KALI GmbH,K+S KALI GmbH,891,Bergbau auf chemische und Düngemittelminerale,Untertage-Bergbau und damit verbundene Tätigkeiten,,Mineralverarbeitende Industrie
+54748,2009,1010,Zink und Verbindungen (als Zn),Schwermetalle,100.0,Messung,ALT,Werk Neuhof-Ellers,06-90030210631,9.59918051730954,50.459291518217,"Am Kaliwerk 6
+36119 Neuhof",Hessen,Weser,K+S AG,K+S KALI GmbH,K+S KALI GmbH,893,Gewinnung von Salz,Untertage-Bergbau und damit verbundene Tätigkeiten,Keine IVU-Tätigkeit,Mineralverarbeitende Industrie
+178258,2013,893,Zink und Verbindungen (als Zn),Schwermetalle,100.0,Messung,ALT,Werk Neuhof-Ellers,06-90030210631,9.59915421214534,50.4593153461903,"Am Kaliwerk 6
+36119 Neuhof",Hessen,Weser,K+S KALI GmbH,K+S KALI GmbH,K+S KALI GmbH,891,Bergbau auf chemische und Düngemittelminerale,Untertage-Bergbau und damit verbundene Tätigkeiten,,Mineralverarbeitende Industrie
+50751,2008,861,Zink und Verbindungen (als Zn),Schwermetalle,100.0,Messung,ALT,Werk Neuhof-Ellers,06-90030210631,9.59918051730954,50.459291518217,"Am Kaliwerk 6
+36119 Neuhof",Hessen,Weser,K+S KALI GmbH,,,893,Gewinnung von Salz,Untertage-Bergbau und damit verbundene Tätigkeiten,Keine IVU-Tätigkeit,Mineralverarbeitende Industrie
+34332,2008,511,Phenole (als Gesamt-C),Andere organische Stoffe,20.0,Berechnung,OTH (C),SAINT-GOBAIN ISOVER G+H AG Werk Lübz,13-40-4117,12.0247976257344,53.4752450581779,"Industriestraße 11
+19386 Lübz",Mecklenburg-Vorpommern,Elbe/Labe,SAINT-GOBAIN ISOVER G+H AG,,,2314,Herstellung von Glasfasern und Waren daraus,Herstellung von Glas und Glasfasern >20 t/d,Herstellung von Glas und Glasfasern,Mineralverarbeitende Industrie
+169965,2010,133,Phenole (als Gesamt-C),Andere organische Stoffe,20.0,Schätzung,Sonstiges (E),Atlantic GmbH,06-05-300-0825427,7.13354369515896,50.7426650999423,"Gartenstr. 7-17
+53229 Bonn",Nordrhein-Westfalen,Rhein,Atlantic GmbH (ehemals Guilleaume),Atlantic GmbH (ehemals Guilleaume),Atlantic GmbH (ehemals Guilleaume),2391,Herstellung von Schleifkörpern und Schleifmitteln auf Unterlage,Herstellung keramischer Erzeugnisse >75 t/d oder Ofenkapazität >4 m³ und Besatzdichte >300 kg/m³,Herstellung keramischer Erzeugnisse,Mineralverarbeitende Industrie
+162885,2007,129,Phenole (als Gesamt-C),Andere organische Stoffe,20.0,Schätzung,Sonstiges (E),Atlantic GmbH (ehemals Guilleaume),06-05-300-0825427,7.13354369515896,50.7426650999423,"Gartenstr. 7-17
+53229 Bonn",Nordrhein-Westfalen,Rhein,,,,2391,Herstellung von Schleifkörpern und Schleifmitteln auf Unterlage,Herstellung keramischer Erzeugnisse >75 t/d oder Ofenkapazität >4 m³ und Besatzdichte >300 kg/m³,Herstellung keramischer Erzeugnisse,Mineralverarbeitende Industrie
+173069,2011,151,Phenole (als Gesamt-C),Andere organische Stoffe,20.0,Schätzung,Sonstiges (E),Atlantic GmbH,06-05-300-0825427,7.13354369515896,50.7426650999423,"Gartenstr. 7-17
+53229 Bonn",Nordrhein-Westfalen,Rhein,Atlantic GmbH (ehemals Guilleaume),Atlantic GmbH (ehemals Guilleaume),Atlantic GmbH (ehemals Guilleaume),2391,Herstellung von Schleifkörpern und Schleifmitteln auf Unterlage,Herstellung keramischer Erzeugnisse >75 t/d oder Ofenkapazität >4 m³ und Besatzdichte >300 kg/m³,Herstellung keramischer Erzeugnisse,Mineralverarbeitende Industrie
+167864,2009,83,Phenole (als Gesamt-C),Andere organische Stoffe,20.0,Schätzung,Sonstiges (E),Atlantic GmbH (ehemals Guilleaume),06-05-300-0825427,7.13354369515896,50.7426650999423,"Gartenstr. 7-17
+53229 Bonn",Nordrhein-Westfalen,Rhein,Atlantic GmbH (ehemals Guilleaume),Atlantic GmbH (ehemals Guilleaume),Atlantic GmbH (ehemals Guilleaume),2391,Herstellung von Schleifkörpern und Schleifmitteln auf Unterlage,Herstellung keramischer Erzeugnisse >75 t/d oder Ofenkapazität >4 m³ und Besatzdichte >300 kg/m³,Herstellung keramischer Erzeugnisse,Mineralverarbeitende Industrie
+176029,2012,118,Phenole (als Gesamt-C),Andere organische Stoffe,20.0,Schätzung,Sonstiges (E),Atlantic GmbH,06-05-300-0825427,7.13354369515896,50.7426650999423,"Gartenstr. 7-17
+53229 Bonn",Nordrhein-Westfalen,Rhein,Atlantic GmbH,Atlantic GmbH,Atlantic GmbH,2391,Herstellung von Schleifkörpern und Schleifmitteln auf Unterlage,Herstellung keramischer Erzeugnisse >75 t/d oder Ofenkapazität >4 m³ und Besatzdichte >300 kg/m³,Herstellung keramischer Erzeugnisse,Mineralverarbeitende Industrie
+164276,2008,138,Phenole (als Gesamt-C),Andere organische Stoffe,20.0,Schätzung,Sonstiges (E),Atlantic GmbH (ehemals Guilleaume),06-05-300-0825427,7.13354369515896,50.7426650999423,"Gartenstr. 7-17
+53229 Bonn",Nordrhein-Westfalen,Rhein,Atlantic GmbH (ehemals Guilleaume),,,2391,Herstellung von Schleifkörpern und Schleifmitteln auf Unterlage,Herstellung keramischer Erzeugnisse >75 t/d oder Ofenkapazität >4 m³ und Besatzdichte >300 kg/m³,Herstellung keramischer Erzeugnisse,Mineralverarbeitende Industrie
+124815,2007,85,Phenole (als Gesamt-C),Andere organische Stoffe,20.0,Berechnung,OTH (C),SAINT-GOBAIN ISOVER G+H AG Werk Lübz,13-40-4117,12.0248093676549,53.4752380287302,"Industriestraße 11
+19386 Lübz",Mecklenburg-Vorpommern,Elbe/Labe,SAINT-GOBAIN ISOVER G+H AG,,,2314,Herstellung von Glasfasern und Waren daraus,Herstellung von Glas und Glasfasern >20 t/d,Herstellung von Glas und Glasfasern,Mineralverarbeitende Industrie
+115590,2010,54500,Gesamter organischer Kohlenstoff (TOC),Andere organische Stoffe,50000.0,Messung,INT (M) CEN/ISO,DBW Fiber Neuhaus GmbH,16-89-41102082400,11.1409998870993,50.5036021727197,"Thomas- Mann- Straße 44
+98724 Neuhaus am Rennweg, Stadt",Thüringen,Elbe/Labe,DBW Fiber Neuhaus GmbH,DBW Gruppe,DBW Fiber Neuhaus GmbH,2314,Herstellung von Glasfasern und Waren daraus,Herstellung von Glas und Glasfasern >20 t/d,Herstellung von Glas und Glasfasern,Mineralverarbeitende Industrie
+171201,2011,76000,Gesamter organischer Kohlenstoff (TOC),Andere organische Stoffe,50000.0,Messung,PER (M),Saint-Gobain Oberland AG,06-09-185-0409-0001,11.2401456231066,48.7377478621121,"Ruhrstr. 2
+86633 Neuburg a.d.Donau",Bayern,Donau,Saint-Gobain Oberland AG,Saint-Gobain Oberland AG,Saint-Gobain Oberland AG,2313,Herstellung von Hohlglas,Herstellung von Glas und Glasfasern >20 t/d,Herstellung von Glas und Glasfasern,Mineralverarbeitende Industrie
+122879,2012,56800,Gesamter organischer Kohlenstoff (TOC),Andere organische Stoffe,50000.0,Messung,INT (M) CEN/ISO,DBW Fiber Neuhaus GmbH,16-89-41102082400,11.1409998870993,50.5036021727197,"Thomas- Mann- Straße 44
+98724 Neuhaus am Rennweg, Stadt",Thüringen,Elbe/Labe,DBW Fiber Neuhaus GmbH,DBW Gruppe,DBW Fiber Neuhaus GmbH,2314,Herstellung von Glasfasern und Waren daraus,Herstellung von Glas und Glasfasern >20 t/d,Herstellung von Glas und Glasfasern,Mineralverarbeitende Industrie
+32391,2008,3420000,Chloride (als Gesamt-Cl),Anorganische Stoffe,2000000.0,Messung,OTH (M),DEUSA International GmbH Sol-Bergwerk,16-62-09401253000,10.6197970240643,51.4696635180463,"Nordhäuser Str. 2
+99752 Kehmstedt",Thüringen,Elbe/Labe,DEUSA International GmbH,DEUSA International GmbH,DEUSA International GmbH,893,Gewinnung von Salz,Untertage-Bergbau und damit verbundene Tätigkeiten,Keine IVU-Tätigkeit,Mineralverarbeitende Industrie
+84982,2011,6.97E7,Chloride (als Gesamt-Cl),Anorganische Stoffe,2000000.0,Messung,ALT,Werk Neuhof-Ellers,06-90030210631,9.59918051730954,50.459291518217,"Am Kaliwerk 6
+36119 Neuhof",Hessen,Weser,K+S KALI GmbH,K+S KALI GmbH,K+S KALI GmbH,891,Bergbau auf chemische und Düngemittelminerale,Untertage-Bergbau und damit verbundene Tätigkeiten,,Mineralverarbeitende Industrie
+148593,2013,9730000,Chloride (als Gesamt-Cl),Anorganische Stoffe,2000000.0,Messung,INT (M) CEN/ISO,DEUSA International GmbH Sol-Bergwerk,16-62-09401253000,10.6197710344361,51.4696767295744,"Nordhäuser Str. 2
+99752 Kehmstedt",Thüringen,Elbe/Labe,DEUSA International GmbH,DEUSA International GmbH,DEUSA International GmbH,893,Gewinnung von Salz,Untertage-Bergbau und damit verbundene Tätigkeiten,,Mineralverarbeitende Industrie
+178258,2013,9.76E7,Chloride (als Gesamt-Cl),Anorganische Stoffe,2000000.0,Messung,ALT,Werk Neuhof-Ellers,06-90030210631,9.59915421214534,50.4593153461903,"Am Kaliwerk 6
+36119 Neuhof",Hessen,Weser,K+S KALI GmbH,K+S KALI GmbH,K+S KALI GmbH,891,Bergbau auf chemische und Düngemittelminerale,Untertage-Bergbau und damit verbundene Tätigkeiten,,Mineralverarbeitende Industrie
+157962,2012,7.51E7,Chloride (als Gesamt-Cl),Anorganische Stoffe,2000000.0,Messung,ALT,Werk Neuhof-Ellers,06-90030210631,9.59915421214534,50.4593153461903,"Am Kaliwerk 6
+36119 Neuhof",Hessen,Weser,K+S KALI GmbH,K+S KALI GmbH,K+S KALI GmbH,891,Bergbau auf chemische und Düngemittelminerale,Untertage-Bergbau und damit verbundene Tätigkeiten,,Mineralverarbeitende Industrie
+115597,2010,5880000,Chloride (als Gesamt-Cl),Anorganische Stoffe,2000000.0,Messung,INT (M) CEN/ISO,DEUSA International GmbH Sol-Bergwerk,16-62-09401253000,10.6197816163518,51.4696783395257,"Nordhäuser Str. 2
+99752 Kehmstedt",Thüringen,Elbe/Labe,DEUSA International GmbH,DEUSA International GmbH,DEUSA International GmbH,893,Gewinnung von Salz,Untertage-Bergbau und damit verbundene Tätigkeiten,Keine IVU-Tätigkeit,Mineralverarbeitende Industrie
+185754,2014,1.34E7,Chloride (als Gesamt-Cl),Anorganische Stoffe,2000000.0,Messung,INT (M) CEN/ISO,DEUSA International GmbH Sol-Bergwerk,16-62-09401253000,10.6197710344361,51.4696767295744,"Nordhäuser Str. 2
+99752 Kehmstedt",Thüringen,Elbe/Labe,DEUSA International GmbH,DEUSA International GmbH,DEUSA International GmbH,893,Gewinnung von Salz,Untertage-Bergbau und damit verbundene Tätigkeiten,,Mineralverarbeitende Industrie
+54748,2009,6.53E7,Chloride (als Gesamt-Cl),Anorganische Stoffe,2000000.0,Messung,ALT,Werk Neuhof-Ellers,06-90030210631,9.59918051730954,50.459291518217,"Am Kaliwerk 6
+36119 Neuhof",Hessen,Weser,K+S AG,K+S KALI GmbH,K+S KALI GmbH,893,Gewinnung von Salz,Untertage-Bergbau und damit verbundene Tätigkeiten,Keine IVU-Tätigkeit,Mineralverarbeitende Industrie
+50751,2008,6.88E7,Chloride (als Gesamt-Cl),Anorganische Stoffe,2000000.0,Messung,ALT,Werk Neuhof-Ellers,06-90030210631,9.59918051730954,50.459291518217,"Am Kaliwerk 6
+36119 Neuhof",Hessen,Weser,K+S KALI GmbH,,,893,Gewinnung von Salz,Untertage-Bergbau und damit verbundene Tätigkeiten,Keine IVU-Tätigkeit,Mineralverarbeitende Industrie
+78377,2010,7.93E7,Chloride (als Gesamt-Cl),Anorganische Stoffe,2000000.0,Messung,ALT,Werk Neuhof-Ellers,06-90030210631,9.59918051730954,50.459291518217,"Am Kaliwerk 6
+36119 Neuhof",Hessen,Weser,K+S KALI GmbH,K+S KALI GmbH,K+S KALI GmbH,893,Gewinnung von Salz,Untertage-Bergbau und damit verbundene Tätigkeiten,Keine IVU-Tätigkeit,Mineralverarbeitende Industrie
+182342,2014,9.4E7,Chloride (als Gesamt-Cl),Anorganische Stoffe,2000000.0,Messung,ALT,Werk Neuhof-Ellers,06-90030210631,9.59915421214534,50.4593153461903,"Am Kaliwerk 6
+36119 Neuhof",Hessen,Weser,K+S AG,K+S KALI GmbH,K+S KALI GmbH,891,Bergbau auf chemische und Düngemittelminerale,Untertage-Bergbau und damit verbundene Tätigkeiten,,Mineralverarbeitende Industrie
+126718,2007,5.38E7,Chloride (als Gesamt-Cl),Anorganische Stoffe,2000000.0,Berechnung,MAB,GVV BW Bischofferode,16-62-09401243000,10.4147008319663,51.4897757055587,"Glück auf Straße 2
+37345 Bischofferode",Thüringen,Elbe/Labe,GVV mbH HA Kali- und Salzbergbau,,,893,Gewinnung von Salz,Untertage-Bergbau und damit verbundene Tätigkeiten,,Mineralverarbeitende Industrie
+85870,2007,3.61E7,Chloride (als Gesamt-Cl),Anorganische Stoffe,2000000.0,Messung,ALT,Werk Neuhof-Ellers,06-90030210631,9.59918051730954,50.459291518217,"Am Kaliwerk 6
+36119 Neuhof",Hessen,Weser,K+S KALI GmbH,,,893,Gewinnung von Salz,Untertage-Bergbau und damit verbundene Tätigkeiten,Keine IVU-Tätigkeit,Mineralverarbeitende Industrie
+118726,2011,1.09E7,Chloride (als Gesamt-Cl),Anorganische Stoffe,2000000.0,Messung,INT (M) CEN/ISO,DEUSA International GmbH,16-62-09401253000,10.6197816163518,51.4696783395257,"Nordhäuser Str. 2
+99752 Kehmstedt",Thüringen,Elbe/Labe,DEUSA International GmbH,DEUSA International GmbH,DEUSA International GmbH,893,Gewinnung von Salz,Untertage-Bergbau und damit verbundene Tätigkeiten,Keine IVU-Tätigkeit,Mineralverarbeitende Industrie
+126715,2007,2.55E7,Chloride (als Gesamt-Cl),Anorganische Stoffe,2000000.0,Berechnung,MAB,GVV BW Roßleben,16-62-09401245000,11.4566282395803,51.289576745068,"Am Kaliwerk -
+06571 Roßleben",Thüringen,Elbe/Labe,GVV mbH,,,893,Gewinnung von Salz,Untertage-Bergbau und damit verbundene Tätigkeiten,,Mineralverarbeitende Industrie
+112488,2009,4140000,Chloride (als Gesamt-Cl),Anorganische Stoffe,2000000.0,Messung,INT (M) CEN/ISO,DEUSA International GmbH Sol-Bergwerk,16-62-09401253000,10.6197816163518,51.4696783395257,"Nordhäuser Straße 2
+99752 Kehmstedt",Thüringen,Elbe/Labe,DEUSA International GmbH,DEUSA International GmbH,DEUSA International GmbH,893,Gewinnung von Salz,Untertage-Bergbau und damit verbundene Tätigkeiten,Keine IVU-Tätigkeit,Mineralverarbeitende Industrie
+122823,2012,5260000,Chloride (als Gesamt-Cl),Anorganische Stoffe,2000000.0,Messung,INT (M) CEN/ISO,DEUSA International GmbH Sol-Bergwerk,16-62-09401253000,10.6197816163518,51.4696783395257,"Nordhäuser Str. 2
+99752 Kehmstedt",Thüringen,Elbe/Labe,DEUSA International GmbH,DEUSA International GmbH,DEUSA International GmbH,893,Gewinnung von Salz,Untertage-Bergbau und damit verbundene Tätigkeiten,Keine IVU-Tätigkeit,Mineralverarbeitende Industrie
